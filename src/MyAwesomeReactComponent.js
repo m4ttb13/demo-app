@@ -1,8 +1,8 @@
 import React from 'react';
 import RaisedButton from 'material-ui/RaisedButton';
 
-const EmptyApp = () => (
+const MyAwesomeReactComponent = () => (
   <RaisedButton label="Default" />
 );
 
-export default EmptyApp;
+export default MyAwesomeReactComponent;
